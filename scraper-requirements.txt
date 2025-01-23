@@ -118,8 +118,9 @@ neo4j-driver==4.1.1 \
 neobolt==1.7.17 \
     --hash=sha256:1d0d5efce7221fc4f0ffc4a315bc5272708be5aa2aef5434269e800372d8db89
     # via neomodel
-neomodel==4.0.3 \
-    --hash=sha256:e8e182ee5c5089631aec5aa920fc8db8de8241302a48bf3463c86daf68b87212
+neomodel==4.0.10 \
+    --hash=sha256:70ffddd58a393e87d18ab3ebbb4d677fa2d739de4411d5040208eb7e129d601e \
+    --hash=sha256:ca8ee1e14d00d9ad7519744bd8b26d2d4f1770e0c51038c3fe83ea799dcfec50
     # via estuary (setup.py)
 oauth2client==4.1.3 \
     --hash=sha256:b8a81cc5d60e2d364f0b1b98f958dbd472887acaf1a5b05e21c28c31a2d6d3ac \

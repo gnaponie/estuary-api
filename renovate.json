@@ -1,0 +1,198 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "tekton": {
+    "schedule": [
+      "at any time"
+    ]
+  },
+  "dockerfile": {
+    "schedule": [
+      "at any time"
+    ]
+  },
+  "rpm": {
+    "schedule": [
+      "at any time"
+    ]
+  },
+  "lockFileMaintenance": {
+    "schedule": [
+      "at any time"
+    ]
+  },
+  "git-submodules": {
+    "schedule": [
+      "at any time"
+    ]
+  },
+  "argocd": {
+    "schedule": [
+      "at any time"
+    ]
+  },
+  "crossplane": {
+    "schedule": [
+      "at any time"
+    ]
+  },
+  "fleet": {
+    "schedule": [
+      "at any time"
+    ]
+  },
+  "flux": {
+    "schedule": [
+      "at any time"
+    ]
+  },
+  "helm-requirements": {
+    "schedule": [
+      "at any time"
+    ]
+  },
+  "helm-values": {
+    "schedule": [
+      "at any time"
+    ]
+  },
+  "helmfile": {
+    "schedule": [
+      "at any time"
+    ]
+  },
+  "helmsman": {
+    "schedule": [
+      "at any time"
+    ]
+  },
+  "helmv3": {
+    "schedule": [
+      "at any time"
+    ]
+  },
+  "jsonnet-bundler": {
+    "schedule": [
+      "at any time"
+    ]
+  },
+  "kubernetes": {
+    "schedule": [
+      "at any time"
+    ]
+  },
+  "kustomize": {
+    "schedule": [
+      "at any time"
+    ]
+  },
+  "asdf": {
+    "schedule": [
+      "at any time"
+    ]
+  },
+  "fvm": {
+    "schedule": [
+      "at any time"
+    ]
+  },
+  "hermit": {
+    "schedule": [
+      "at any time"
+    ]
+  },
+  "homebrew": {
+    "schedule": [
+      "at any time"
+    ]
+  },
+  "osgi": {
+    "schedule": [
+      "at any time"
+    ]
+  },
+  "pre-commit": {
+    "schedule": [
+      "at any time"
+    ]
+  },
+  "vendir": {
+    "schedule": [
+      "at any time"
+    ]
+  },
+  "terraform": {
+    "schedule": [
+      "at any time"
+    ]
+  },
+  "terraform-version": {
+    "schedule": [
+      "at any time"
+    ]
+  },
+  "terragrunt": {
+    "schedule": [
+      "at any time"
+    ]
+  },
+  "terragrunt-version": {
+    "schedule": [
+      "at any time"
+    ]
+  },
+  "tflint-plugin": {
+    "schedule": [
+      "at any time"
+    ]
+  },
+  "pep621": {
+    "schedule": [
+      "at any time"
+    ]
+  },
+  "pep723": {
+    "schedule": [
+      "at any time"
+    ]
+  },
+  "pip-compile": {
+    "schedule": [
+      "at any time"
+    ]
+  },
+  "pip_requirements": {
+    "schedule": [
+      "at any time"
+    ]
+  },
+  "pip_setup": {
+    "schedule": [
+      "at any time"
+    ]
+  },
+  "pipenv": {
+    "schedule": [
+      "at any time"
+    ]
+  },
+  "poetry": {
+    "schedule": [
+      "at any time"
+    ]
+  },
+  "pyenv": {
+    "schedule": [
+      "at any time"
+    ]
+  },
+  "runtime-version": {
+    "schedule": [
+      "at any time"
+    ]
+  },
+  "setup-cfg": {
+    "schedule": [
+      "at any time"
+    ]
+  }
+}

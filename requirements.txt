@@ -92,8 +92,8 @@ markupsafe==1.1.1 \
     --hash=sha256:e8313f01ba26fbbe36c7be1966a7b7424942f670f38e666995b88d012765b9be \
     --hash=sha256:feb7b34d6325451ef96bc0e36e1a6c0c1c64bc1fbec4b854f4529e51887b1621
     # via jinja2
-neo4j-driver==4.1.1 \
-    --hash=sha256:21fa285a9d3bbb9dd50d9d9b379376a42fac2ed0706d58520ec36c6afd12f252
+neo4j-driver==4.4.12 \
+    --hash=sha256:92a95a5978461df0cbe25afb52b3c9ce5c8efb2dc63ca2c1366c46f11ce48cb3
     # via neomodel
 neobolt==1.7.17 \
     --hash=sha256:1d0d5efce7221fc4f0ffc4a315bc5272708be5aa2aef5434269e800372d8db89

@@ -132,9 +132,9 @@ pytz==2021.1 \
     #   estuary (setup.py)
     #   neo4j-driver
     #   neomodel
-rsa==4.7.2 \
-    --hash=sha256:78f9a9bf4e7be0c5ded4583326e7461e3a3c5aae24073648b4bdfa797d78c9d2 \
-    --hash=sha256:9d689e6ca1b3038bc82bf8d23e944b6b6037bc02301a574935b2dd946e0353b9
+rsa==4.9 \
+    --hash=sha256:90260d9058e514786967344d0ef75fa8727eed8a7d2e43ce9f4bcf1b536174f7 \
+    --hash=sha256:e38464a49c6c85d7f1351b0126661487a7e0a14a50f1675ec50eb34d4f20ef21
     # via oauth2client
 shapely==1.7.1 \
     --hash=sha256:052eb5b9ba756808a7825e8a8020fb146ec489dd5c919e7d139014775411e688 \

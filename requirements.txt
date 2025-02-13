@@ -24,9 +24,9 @@ httplib2==0.19.1 \
     --hash=sha256:0b12617eeca7433d4c396a100eaecfa4b08ee99aa881e6df6e257a7aad5d533d \
     --hash=sha256:2ad195faf9faf079723f6714926e9a9061f694d07724b846658ce08d40f522b4
     # via oauth2client
-itsdangerous==1.1.0 \
-    --hash=sha256:321b033d07f2a4136d3ec762eac9f16a10ccd60f53c0c91af90217ace7ba1f19 \
-    --hash=sha256:b12271b2047cb23eeb98c8b5622e2e5c5e9abd9784a153e9d8ef9cb4dd09d749
+itsdangerous==2.2.0 \
+    --hash=sha256:c6242fc49e35958c8b15141343aa660db5fc54d4f13a1db01a3f5891b98700ef \
+    --hash=sha256:e0050c0b7da1eea53ffaf149c0cfbb5c6e2e2b69c4bef22c81fa6eb73e5f6173
     # via
     #   flask
     #   flask-oidc

@@ -8,8 +8,9 @@ click==7.1.2 \
     --hash=sha256:d2b5255c7c6349bc1bd1e59e08cd12acbbd63ce649f2588755783aa94dfb6b1a \
     --hash=sha256:dacca89f4bfadd5de3d7489b7c8a566eee0d3676333fbb50030263894c38c0dc
     # via flask
-flask-oidc==1.4.0 \
-    --hash=sha256:0c12151139d47a562e1c5ae203fb9dbc759fe7474cc01e0238bef828ece58f4e
+flask-oidc==2.4.0 \
+    --hash=sha256:5aa398dd3e593c5ed9d94f23a948c635606d619b974b5df25de8aeb725b6ea8d \
+    --hash=sha256:e72378fcea8f90ccab874836a61f1783092a900c965e52587c1307e38b2e2153
     # via estuary (setup.py)
 flask==1.1.2 \
     --hash=sha256:4efa1ae2d7c9865af48986de8aeb8504bf32c7f3d6fdc9353d34b21f4b127060 \

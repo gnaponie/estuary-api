@@ -73,7 +73,7 @@ itsdangerous==1.1.0 \
     # via
     #   flask
     #   flask-oidc
-jinja2==2.11.3 \
+jinja2==3.1.6 \
     --hash=sha256:03e47ad063331dd6a3f04a43eddca8a966a26ba0c5b7207a9a9e4e08f1b29419 \
     --hash=sha256:a6d58433de0ae800347cab1fa3043cebbabe8baa9d29e668f1c768cb87a333c6
     # via

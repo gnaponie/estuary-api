@@ -154,7 +154,7 @@ packaging==20.9 \
     --hash=sha256:5b327ac1320dc863dca72f4514ecc086f31186744b84a230374cc1fd776feae5 \
     --hash=sha256:67714da7f7bc052e064859c05c595155bd1ee9f69f76557e21f051443c20947a
     # via sphinx
-prometheus-client==0.10.1 \
+prometheus-client==0.23.1 \
     --hash=sha256:030e4f9df5f53db2292eec37c6255957eb76168c6f974e4176c711cf91ed34aa \
     --hash=sha256:b6c5a9643e3545bcbfd9451766cbaa5d9c67e7303c7bc32c750b6fa70ecb107d
     # via estuary (setup.py)

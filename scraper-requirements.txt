@@ -4,7 +4,7 @@
 #
 #    pip-compile --generate-hashes --output-file=scraper-requirements.txt scraper-requirements.in setup.py
 #
-beautifulsoup4==4.9.3 \
+beautifulsoup4==4.14.0 \
     --hash=sha256:4c98143716ef1cb40bf7f39a8e3eec8f8b009509e74904ba3a7b315431577e35 \
     --hash=sha256:84729e322ad1d5b4d25f805bfa05b902dd96450f43842c4e99067d5e1369eb25 \
     --hash=sha256:fff47e031e34ec82bf17e00da8f592fe7de69aeea38be00523c04623c04fb666
